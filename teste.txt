@@ -1,3 +1,4 @@
 teste repo01
 testando push
 linhas sobrepostas
+testanto conflito
